@@ -20,6 +20,6 @@ Victor Cassone: <vic.cassone@gmail.com>
 
 Jen Homann: <jen.homann@gmail.com>
 
-_The Tech Omaha Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 license. Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects, including:_
+_The Tech Omaha Code of Conduct is licensed under the [Creative Commons Attribution-Share Alike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/). Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects, including:_
 
 [Contributor Covenant](http://contributor-covenant.org/) | [The Fedora Project](https://getfedora.org/code-of-conduct) | [OpenStack](https://www.openstack.org/legal/community-code-of-conduct/) | [Puppet Labs](https://docs.puppetlabs.com/community/community_guidelines.html) | [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct) | [Elastic](https://www.elastic.co/community/codeofconduct)
