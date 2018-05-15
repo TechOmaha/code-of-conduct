@@ -10,7 +10,7 @@ In an effort to create a safe environment for all attendees, we agree to treat e
 
 ## If you need help
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting <techomaha@gmail.com>, to any admin in the community Slack channel or to the organizers of an event. We take our community's health seriously and want to ensure everyone has a good experience.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting <techomaha@gmail.com>, to any admin in the community Slack channel or to the organizers of an event. We take our community's health seriously and want to ensure everyone has a good experience.  Please also keep in mind that public shaming can be counter-productive to building a strong community. We do not condone nor participate in such actions.
 
 When relevant - in an effort to be as transparent as possible - Tech Omaha organizers will communicate with the community about Code of Conduct violations and any actions taken. All efforts will be made to communicate in a timely manner while respecting the privacy of those involved.
 
